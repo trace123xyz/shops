@@ -1,0 +1,162 @@
+{
+	"info": {
+		"title": "0tter pop shop - beta",
+		"author": "The green otter.)",
+		"shortDesc": "download the best cias.)!",
+		"description": "Download all the games you need.)!",
+		"barColor": "#FB5947",
+		"bgBottomColor": "#241691",
+		"bgTopColor": "#FF9224",
+		"textColor": "#F4E586",
+		"selectedColor": "#00eeff",
+		"unselectedColor": "#0fb4bf",
+		"version": 1,
+		"revision": 0
+		
+	},
+	"Tetris Ultimate_USA": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/2104abahr6y9d1s/Tetris%20Ultimate_USA.cia?dl=1",
+			"output": "/Tetris Ultimate_USA.cia",
+			"message": "Downloading your requested game..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Tetris Ultimate_USA.cia",
+			"message": "Installing the CIA. Please Wait..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Tetris Ultimate_USA.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Super Smash Bros. for Nintendo 3DS (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/jwhewq7q8w75hzc/Super%20Smash%20Bros.%20for%20Nintendo%203DS%20%28USA%29.cia?dl=1",
+			"output": "/Super Smash Bros. for Nintendo 3DS (USA).cia",
+			"message": "Downloading your requested game..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Super Smash Bros. for Nintendo 3DS (USA).cia",
+			"message": "Installing the CIA. Please Wait..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Super Smash Bros. for Nintendo 3DS (USA).cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"New Super Mario Bros. 2 (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/ejehvtubhu04mid/New%20Super%20Mario%20Bros.%202%20%28USA%29.cia?dl=1",
+			"output": "/New Super Mario Bros. 2 (USA).cia",
+			"message": "Downloading your requested game..."
+		},
+		{
+			"type": "installCia",
+			"file": "/New Super Mario Bros. 2 (USA).cia",
+			"message": "Installing the CIA. Please Wait..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/New Super Mario Bros. 2 (USA).cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Animal Crossing - New Leaf (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/9gf04ju4sd19xmq/Animal%20Crossing%20-%20New%20Leaf%20%28USA%29.cia?dl=1",
+			"output": "/Animal Crossing - New Leaf (USA).cia",
+			"message": "Downloading your requested game..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Animal Crossing - New Leaf (USA).cia",
+			"message": "Installing the CIA. Please Wait..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Animal Crossing - New Leaf (USA).cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"Super Mario 3D Land (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/dh86jx89pu51px4/Super%20Mario%203D%20Land.cia?dl=1",
+			"output": "/Super Mario 3D Land.cia",
+			"message": "Downloading your requested game..."
+		},
+		{
+			"type": "installCia",
+			"file": "/Super Mario 3D Land.cia",
+			"message": "Installing the CIA. Please Wait..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/Captain Toad - Treasure Tracker-Revo3DS.cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"The Legend of Zelda - Ocarina of Time 3D (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/khgsbqjxlao0evl/The%20Legend%20of%20Zelda%20-%20Ocarina%20of%20Time%203D%20%28USA%29.cia?dl=1",
+			"output": "/The Legend of Zelda - Ocarina of Time 3D (USA).cia",
+			"message": "Downloading your requested game..."
+		},
+		{
+			"type": "installCia",
+			"file": "/The Legend of Zelda - Ocarina of Time 3D (USA).cia",
+			"message": "Installing the CIA. Please Wait..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/The Legend of Zelda - Ocarina of Time 3D (USA).cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"The Legend of Zelda - Majora's Mask 3D (USA)": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/hp8j6a94f7sugzt/The%20Legend%20of%20Zelda%20-%20Majora%27s%20Mask%203D%20%28USA%29.cia?dl=1",
+			"output": "/The Legend of Zelda - Majora's Mask 3D (USA).cia",
+			"message": "Downloading your requested game..."
+		},
+		{
+			"type": "installCia",
+			"file": "/The Legend of Zelda - Majora's Mask 3D (USA).cia",
+			"message": "Installing the CIA. Please Wait..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/TThe Legend of Zelda - Majora's Mask 3D (USA).cia",
+			"message": "Deleting an unneeded file..."
+		}
+	],
+	"PornHub": [
+		{
+			"type": "downloadFile",
+			"file": "https://www.dropbox.com/s/xg5ydl3k0ur0xca/PornHub.cia?dl=1",
+			"output": "/PornHUb.cia",
+			"message": "Downloading your requested game..."
+		},
+		{
+			"type": "installCia",
+			"file": "/PornHub.cia",
+			"message": "Installing the CIA. Please Wait..."
+		},
+		{
+			"type": "deleteFile",
+			"file": "/PornHub.cia",
+			"message": "Deleting an unneeded file..."
+	
+		}
+	]
+}
